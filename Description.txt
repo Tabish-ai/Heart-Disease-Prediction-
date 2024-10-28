@@ -1,0 +1,10 @@
+My project, titled "Heart Disease Prediction Using Machine Learning," focuses on predicting the likelihood of heart disease 
+in patients. This is crucial as cardiovascular issues are a leading cause of mortality worldwide.
+
+I analyzed a comprehensive dataset using various machine learning algorithms, including logistic regression, 
+decision trees, Random Forest, Naive Bayes, KNN and support vector machines, to identify the most effective model for this task. Ultimately,
+I found that Logistic regression Model provided the highest accuracy in predicting whether a patient has heart disease. 
+
+The implications of this work are significant, as early and accurate prediction can aid in timely intervention 
+and potentially save lives. 
+Moving forward, I plan to refine the model further and explore additional data sources to enhance prediction accuracy.
